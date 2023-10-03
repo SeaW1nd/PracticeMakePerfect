@@ -1,0 +1,7 @@
+# Dirsearch started Wed Jul 19 22:16:28 2023 as: /home/seawind/.local/bin/dirsearch -u http://mercury.picoctf.net:55079/
+
+403     9B   http://mercury.picoctf.net:55079/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+200    62B   http://mercury.picoctf.net:55079/.DS_Store
+200    95B   http://mercury.picoctf.net:55079/.htaccess
+200    95B   http://mercury.picoctf.net:55079/.htaccess/
+200   124B   http://mercury.picoctf.net:55079/robots.txt
